@@ -1,0 +1,14 @@
+* {
+	font-family: "微软雅黑";
+}
+.box {
+	height: 800px;
+	width: 649px;
+	margin:0 auto;
+}
+p,span {
+	font-weight: 700;
+}
+span {
+	margin-right: 43px;
+}

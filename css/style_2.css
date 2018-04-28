@@ -1,0 +1,48 @@
+body {
+	margin: 0;
+	padding:0;
+}
+.fl {
+	float: left;
+}
+.fr {
+	float: right;
+}
+* {
+	font-family: "微软雅黑";
+}
+h2 {
+	font-size: 44px;
+}
+span,p {
+	font-size: 30px;
+}
+span {
+	margin-right: 84px;
+}
+
+.box {
+	width: 1520px;
+	height: 1505px;
+	margin:0 auto;
+	background: skyblue;
+}
+.lianli {
+	height: 1479px;
+	width: 326px;
+	background: #3f8ef9;
+	margin:12px 0 0 7px;
+}
+.lianli h1 {
+	text-align: center;;
+	color: #fff;
+	font-size: 60px;
+	margin:0;
+	margin-top: 114px;
+}
+.huizong {
+	padding:62px 0 0 43px;
+}
+#jl {
+	margin-top: 0px;
+}

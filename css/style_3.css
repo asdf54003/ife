@@ -1,0 +1,140 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+span,p {
+	font-size: 26px;
+	font-weight: 700;
+}
+span {
+	margin-right: 84px;
+}
+.box {
+	width: 2531px;
+}
+.lianli {
+	height: 124px;
+	background: #666;
+	margin:12px 0 0 6px;
+}
+.lianli h1 {
+	color: #fff;
+	height: 124px;
+	line-height: 124px;
+	margin-left: 40px;
+}
+.huizong {
+	widows: 2531px;
+	border:2px solid #ccc;
+	margin:0 0 0 6px;
+}
+.one {
+	height: 202px;
+	margin-bottom: 2px;
+}
+.xinxi {
+	float: left;
+	width: 193px;
+	height: 202px;
+	background: #ccc;
+}
+.xinxi h2 {
+	height: 202px;
+	line-height:202px;
+	text-align: center;
+}
+.xinxi-con {
+	float:left;
+	padding: 27px 0 0 21px;
+}
+
+/*设置two*/
+.two {
+	height: 202px;
+	margin-bottom: 2px;
+	border-top:2px solid #ccc;
+
+}
+.lianxi {
+	float: left;
+	width: 193px;
+	height: 202px;
+	background: #ccc;
+}
+.lianxi h2 {
+	height: 202px;
+	line-height:202px;
+	text-align: center;
+}
+.lianxi-con {
+	float:left;
+	padding: 27px 0 0 21px;
+}
+
+/*设置three*/
+.three {
+	height: 202px;
+	margin-bottom: 2px;
+	border-top:2px solid #ccc;
+
+}
+.nengli {
+	float: left;
+	width: 193px;
+	height: 202px;
+	background: #ccc;
+}
+.nengli h2 {
+	height: 202px;
+	line-height:202px;
+	text-align: center;
+}
+.nengli-con {
+	float:left;
+	padding: 27px 0 0 21px;
+}
+/*设置four*/
+.four {
+	height: 202px;
+	margin-bottom: 2px;
+	border-top:2px solid #ccc;
+
+}
+.jiaoyu {
+	float: left;
+	width: 193px;
+	height: 202px;
+	background: #ccc;
+}
+.jiaoyu h2 {
+	height: 202px;
+	line-height:202px;
+	text-align: center;
+}
+.jiaoyu-con {
+	float:left;
+	padding: 27px 0 0 21px;
+}
+
+/*设置five*/
+.five {
+	height: 202px;
+	margin-bottom: 2px;
+	border-top:2px solid #ccc;
+
+}
+.xiangmu {
+	float: left;
+	width: 193px;
+	height: 202px;
+	background: #ccc;
+}
+.xiangmu h2 {
+	height: 202px;
+	line-height:202px;
+	text-align: center;
+}
+.xiangmu-con {
+	float:left;
+	padding: 27px 0 0 21px;
+}
